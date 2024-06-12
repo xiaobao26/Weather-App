@@ -1,10 +1,14 @@
 import './App.css';
+import BackgroundImage from './Component/BackgroundImage';
+import WeatherCard from './Component/WeatherCard';
 
 function App() {
   return (
-    <h1>
-      Hello world!
-  </h1>
+      <>
+        <BackgroundImage>
+          <WeatherCard />
+        </BackgroundImage>
+      </>
   );
 }
 

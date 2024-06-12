@@ -1,6 +1,7 @@
 Step1: Break the UI into a component hierarchy 
 ![alt text](image.png)
 
+```plaintext
 weatherapp
     -src
       -assets

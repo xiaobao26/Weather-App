@@ -1,7 +1,7 @@
-Step1: Break the UI into a component hierarchy 
+# Step1: Break the UI into a component hierarchy 
 ![alt text](image.png)
 
-```plaintext
+### File crate
 weatherapp
     -src
       -assets

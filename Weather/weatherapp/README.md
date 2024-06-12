@@ -2,6 +2,7 @@
 ![alt text](image.png)
 
 ### File crate
+```plaintext
 - weatherapp
     -src
       -assets

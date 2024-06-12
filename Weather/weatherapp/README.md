@@ -20,8 +20,8 @@
             -WeatherCard.js
             -index.js
                 
-# Step2: 
-## Features
+# Step2: Finish background  
+## Key-points
     - To make the background color cover the full screen, using the class '**min-h-screen**' which sets the minimum height to 100vh (100% of the viewport height). This ensures that the    element will cover the entire height of the screen.
     
     - make the bg-img on the bottom-right position
@@ -30,5 +30,7 @@
         bottom: 0,
         right: 0
     ```
+
+# Step3: Finish Weather card  
     
 

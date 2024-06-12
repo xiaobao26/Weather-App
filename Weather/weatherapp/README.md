@@ -2,20 +2,20 @@
 ![alt text](image.png)
 
 ### File crate
-weatherapp
-    -src
-      -assets
-        ...
-      -Component
-        -BackgroundImage
-            -BackgroundImage.js
-            -index.js
-        -WeatherCard
-            -Component
-                -CurrentCity
-                -Forest
-                -SearchBar
-                -OtherCity
-            -WeatherCard.js
-            -index.js
+- weatherapp
+    - -src
+    -  -assets
+       - ...
+    -  -Component
+    -    -BackgroundImage
+    -        -BackgroundImage.js
+    -        -index.js
+    -    -WeatherCard
+    -        -Component
+    -            -CurrentCity
+    -            -Forest
+    -            -SearchBar
+    -            -OtherCity
+    -        -WeatherCard.js
+    -        -index.js
                 

@@ -3,19 +3,19 @@
 
 ### File crate
 - weatherapp
-    - -src
-    -  -assets
-       - ...
-    -  -Component
-    -    -BackgroundImage
-    -        -BackgroundImage.js
-    -        -index.js
-    -    -WeatherCard
-    -        -Component
-    -            -CurrentCity
-    -            -Forest
-    -            -SearchBar
-    -            -OtherCity
-    -        -WeatherCard.js
-    -        -index.js
+    -src
+      -assets
+        ...
+      -Component
+        -BackgroundImage
+            -BackgroundImage.js
+            -index.js
+        -WeatherCard
+            -Component
+                -CurrentCity
+                -Forest
+                -SearchBar
+                -OtherCity
+            -WeatherCard.js
+            -index.js
                 

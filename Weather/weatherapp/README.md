@@ -32,5 +32,9 @@
     ```
 
 # Step3: Finish Weather card  
+## Key-points
+    - using 'flex' make the 'weathercard-container' center in the page
+    - then using 'grid' to layout the card
+    - make the background color become transparent:  background-color: rgba(255, 255, 255, 0.9);
     
 
